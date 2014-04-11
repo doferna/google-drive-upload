@@ -1,5 +1,9 @@
 ## Script para upload de arquivos para o Google Drive, via terminal/ssh no Ubuntu Linux
 
+Scripts baseados no trabalho feito por [Gennady Kovshenin] em seu repositório de [Bash Utils].
+
+[Gennady Kovshenin]: https://github.com/soulseekah
+[Bash Utils]: https://github.com/soulseekah/bash-utils
 
 ### Como configurar:
 
