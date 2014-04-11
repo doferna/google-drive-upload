@@ -3,7 +3,7 @@
 
 ### Como configurar:
 
-0. Obtenha os arquivos deste gist usando `git clone https://gist.github.com/9646681.git drive-upload`.
+0. Obtenha os arquivos deste repositório usando `git clone https://github.com/rdeavila/google-drive-upload.git`.
 0. Dê permissão de execução para os arquivos: `chmod a+x *.sh`.
 1. Configure um novo projeto no [Google Developers Console]
 2. Neste projeto, habilite o Drive API.
